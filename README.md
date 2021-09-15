@@ -2,9 +2,10 @@
 
 ### Date created
 July 3rd, 2021
+07/03/2021
 
 ### Project Title
-Explore US Bikeshare Data
+Explore US Bikeshare Data: Identify trends in sharing bikes across NYC, Chicago, and Washington
 
 ### Description
 In this project, I wrote Python code to import US bike share data and answer interesting questions about it by computing descriptive statistics. I also wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
@@ -15,7 +16,7 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-Articles Referenced:
+External Articles Referenced:
 
   How to Indefinitely Request User Input Until Valid in Python
   Link: https://betterprogramming.pub/how-to-indefinitely-request-user-input-until-valid-in-python-388a7c85aa6e
